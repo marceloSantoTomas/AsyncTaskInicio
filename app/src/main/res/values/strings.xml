@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">AsyncTaskInicio</string>
+
+    <string name="txtUsuario"></string>
+    <string name="txtContrasenia"></string>
+
+
+    //Actividad Resultado
+    <string name="txtBienvenido">Bienvenido</string>
+
+
+    // Boton
+    <string name="btnIniciarSesion">Iniciar sesión</string>
+</resources>
